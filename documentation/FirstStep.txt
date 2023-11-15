@@ -1,0 +1,18 @@
+#How To
+Q0:Why?
+A0:Because.
+Q1:What?
+A1:That.
+Q2:When?
+A2:Then.
+Q3:Where?
+A3:There.
+Q4:How to use Git?
+A4:Check the documentation and the tutorial.
+Q5:This is the first modification of the file after the initial commit?
+A5:Yes, this is the first one.
+Q6:Which branch are we?
+A6:Actually, we are on the v1.1 branch.
+Q7:Why are you trying this stupid step?
+A7:Because I need to understand correctly how that's work.
+
